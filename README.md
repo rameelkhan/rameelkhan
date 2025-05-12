@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm a Power Platform Technical Team Lead
 
-💼 7+ years of experience designing and delivering scalable solutions on **Power Platform** & **Dynamics 365 CE**  
+💼 7+ years of experience designing and delivering scalable solutions on **Dynamics 365 CE/CRM** & **Power Platform**
 🏗️ Expert in architecting complex **Dataverse systems**, including systems integrated with multiple external platforms  
 🌐 Skilled in building full-featured **Power Pages portals** — from websites to e-service platforms with modern UI/UX  
 📚 **Blog**: [rameelkhan.hashnode.dev](https://rameelkhan.hashnode.dev/)
